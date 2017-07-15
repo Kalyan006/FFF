@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [PD Tests]">
+  <test name="Initialize(failed)">
+    <classes>
+      <class name="com.phm.hec.testcases.initiate">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterTest"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="loginn"/>
+        </methods>
+      </class> <!-- com.phm.hec.testcases.initiate -->
+    </classes>
+  </test> <!-- Initialize(failed) -->
+  <test name="TC16(failed)">
+    <classes>
+      <class name="com.phm.hec.PD.Testcases.TC16AddAccount">
+        <methods>
+          <include name="AddAccount"/>
+        </methods>
+      </class> <!-- com.phm.hec.PD.Testcases.TC16AddAccount -->
+      <class name="com.phm.hec.testcases.initiate">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterTest"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.phm.hec.testcases.initiate -->
+    </classes>
+  </test> <!-- TC16(failed) -->
+  <test name="EndTestSuite(failed)">
+    <classes>
+      <class name="com.phm.hec.testcases.initiate">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="afterTest"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.phm.hec.testcases.initiate -->
+      <class name="com.phm.hec.testcases.EndTestSuiteRun">
+        <methods>
+          <include name="EndTestSuite"/>
+        </methods>
+      </class> <!-- com.phm.hec.testcases.EndTestSuiteRun -->
+    </classes>
+  </test> <!-- EndTestSuite(failed) -->
+</suite> <!-- Failed suite [PD Tests] -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PD Tests" parallel="false" thread-count="2" verbose="1">
+
+  <test name="Initialize">
+    <classes>
+      <class name="com.phm.hec.testcases.initiate"/>
+    </classes>
+  </test> 
+
+
+	<!-- <test name ="TC383">
+		<classes>
+	  		<class name="com.phm.hec.PD.Testcases.TC383AddProvider"/>
+	 	</classes>
+   	</test>  -->
+
+
+   	<test name ="TC16">
+		<classes>
+	  		<class name="com.phm.hec.PD.Testcases.TC16AddAccount"/>
+	 	</classes>
+  	</test>
+   
+  
+	<!--  <test name ="TC399">
+		<classes>
+	  		<class name="com.phm.hec.testcases.TC399"/>
+	 	</classes>
+   	</test>
+  -->
+  <test name = "EndTestSuite">
+  	<classes>
+  		<class name = "com.phm.hec.testcases.EndTestSuiteRun"/>
+  	</classes>
+  </test>
+</suite>
+

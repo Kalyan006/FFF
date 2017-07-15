@@ -1,0 +1,89 @@
+2017-07-14 21:50:23.629 INFO  Initializer:66 - Client : AHG_UAT
+2017-07-14 21:50:23.630 INFO  Initializer:68 - Browser : CHROME
+2017-07-14 21:50:23.631 INFO  Initializer:70 - Module(s) : PD
+2017-07-14 21:50:23.631 INFO  Initializer:72 - TestType : REG
+2017-07-14 21:50:23.631 INFO  Initializer:75 - URL : https://phmadminuat.healthec.com/AHGCR0137/
+2017-07-14 21:50:23.631 INFO  Initializer:92 - Launching  https://phmadminuat.healthec.com/AHGCR0137/ chrome with new profile..
+2017-07-14 21:50:42.163 INFO  Initializer:16 - Logged in Successfully
+2017-07-14 21:50:44.213 INFO  TC16AddAccount:123 - Click on Provider Admin Home Tab...
+2017-07-14 21:50:51.617 INFO  TC16AddAccount:142 - File Path for Add Account : D:\UATAutomation\hec\src\test\Data\PD\PD_AddAccount.xlsx
+2017-07-14 21:50:51.827 INFO  TC16AddAccount:152 - Sheet Name : AHG
+2017-07-14 21:50:51.828 INFO  TC16AddAccount:163 - Test Type : REG || Total Rows :30|| Total Columns : 42
+2017-07-14 21:50:51.829 INFO  TC16AddAccount:171 - true
+2017-07-14 21:50:56.466 INFO  TC16AddAccount:182 - Click on Add Account
+2017-07-14 21:50:56.667 INFO  TC16AddAccount:192 - Account Information, Account Name : UATAddAccount215056
+2017-07-14 21:50:59.047 INFO  TC16AddAccount:204 - Account Information, Account Type : Sole Practitioner
+2017-07-14 21:51:01.098 INFO  TC16AddAccount:217 - Account Information, Account Category : Transportation
+2017-07-14 21:51:01.223 INFO  TC16AddAccount:342 - Address & Contact Information, Last Name : JHON
+2017-07-14 21:51:01.349 INFO  TC16AddAccount:356 - Address & Contact Information, First Name : Henry
+2017-07-14 21:51:01.612 INFO  TC16AddAccount:370 - Address & Contact Information, Email : jhon.michel@gmail.com
+2017-07-14 21:51:01.859 INFO  TC16AddAccount:384 - Address & Contact Information, Address1 : 100 MEDICAL CENTER WAY
+2017-07-14 21:51:01.985 INFO  TC16AddAccount:411 - Address & Contact Information, City : NEW TOWN
+2017-07-14 21:51:02.108 INFO  TC16AddAccount:425 - Address & Contact Information, State : DELAWARE
+2017-07-14 21:51:02.196 INFO  TC16AddAccount:439 - Address & Contact Information, Zip : 91456
+2017-07-14 21:51:02.308 INFO  TC16AddAccount:467 - Address & Contact Information, Phone 1 : 8475580247
+2017-07-14 21:51:04.572 INFO  TC16AddAccount:663 - Clicked on Assign Region Button
+2017-07-14 21:51:05.727 INFO  TC16AddAccount:673 - Region Code : 87726MC
+2017-07-14 21:51:06.447 INFO  TC16AddAccount:705 - Region Name : AARP UNITED HEALTHCARE
+2017-07-14 21:51:11.449 INFO  TC16AddAccount:1176 - Press Save Account Button To Save all Account Information
+2017-07-14 21:51:11.595 INFO  TC16AddAccount:1180 - To Search Account Information Account Name : UATAddAccount215056
+2017-07-14 21:51:14.873 INFO  TC16AddAccount:1206 - Account details have been created successfully
+2017-07-14 21:51:14.873 INFO  TC16AddAccount:1215 - Multi Test Data :true Execute : true
+2017-07-14 21:51:14.874 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.875 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.875 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.875 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.875 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.875 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.875 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.876 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:14.876 INFO  TC16AddAccount:171 - true
+2017-07-14 21:51:17.769 INFO  TC16AddAccount:182 - Click on Add Account
+2017-07-14 21:51:17.947 INFO  TC16AddAccount:192 - Account Information, Account Name : UATAddAccount215117
+2017-07-14 21:51:20.173 INFO  TC16AddAccount:204 - Account Information, Account Type : Public Corporation
+2017-07-14 21:51:22.085 INFO  TC16AddAccount:217 - Account Information, Account Category : PCA
+2017-07-14 21:51:22.196 INFO  TC16AddAccount:342 - Address & Contact Information, Last Name : David
+2017-07-14 21:51:22.312 INFO  TC16AddAccount:356 - Address & Contact Information, First Name : Lowrence
+2017-07-14 21:51:22.569 INFO  TC16AddAccount:370 - Address & Contact Information, Email : david.lowrence@gmail.com
+2017-07-14 21:51:22.805 INFO  TC16AddAccount:384 - Address & Contact Information, Address1 : 200 MEDICAL CENTER WAY
+2017-07-14 21:51:22.936 INFO  TC16AddAccount:411 - Address & Contact Information, City : CALIFORNIA
+2017-07-14 21:51:23.042 INFO  TC16AddAccount:425 - Address & Contact Information, State : ARKANSAS
+2017-07-14 21:51:23.126 INFO  TC16AddAccount:439 - Address & Contact Information, Zip : 71404
+2017-07-14 21:51:23.247 INFO  TC16AddAccount:467 - Address & Contact Information, Phone 1 : 8470489247
+2017-07-14 21:51:25.470 INFO  TC16AddAccount:663 - Clicked on Assign Region Button
+2017-07-14 21:51:26.627 INFO  TC16AddAccount:673 - Region Code : 86047MC
+2017-07-14 21:51:27.364 INFO  TC16AddAccount:705 - Region Name : AMERICHOICE MEDICARE
+2017-07-14 21:51:30.185 INFO  TC16AddAccount:759 - Clicked on Assign Facility Button
+2017-07-14 21:51:33.407 INFO  TC16AddAccount:785 - Tax ID : 210634964
+2017-07-14 21:51:34.378 INFO  TC16AddAccount:819 - Facility Name : Bacharach Institute For Rehabilitation Inc
+2017-07-14 21:51:36.654 INFO  TC16AddAccount:873 - Clicked on Assign Provider Button
+2017-07-14 21:51:39.858 INFO  TC16AddAccount:889 - Provider NPI : 1962573923
+2017-07-14 21:51:41.156 INFO  TC16AddAccount:922 - Provider Last Name : ALFARO
+2017-07-14 21:51:41.213 INFO  TC16AddAccount:950 - Provider First Name : ABRAHAM
+2017-07-14 21:51:43.712 INFO  TC16AddAccount:1027 - Clicked on Assign User Button
+2017-07-14 21:51:46.987 INFO  TC16AddAccount:1043 - User Name :AHGTESTCAREADMIN
+2017-07-14 21:51:47.776 INFO  TC16AddAccount:1074 - User Last Name : ADMIN
+2017-07-14 21:51:47.835 INFO  TC16AddAccount:1101 - Assign User, First Name :AHGTESTCARE
+2017-07-14 21:51:53.187 INFO  TC16AddAccount:1176 - Press Save Account Button To Save all Account Information
+2017-07-14 21:51:53.333 INFO  TC16AddAccount:1180 - To Search Account Information Account Name : UATAddAccount215117
+2017-07-14 21:51:55.624 INFO  TC16AddAccount:1206 - Account details have been created successfully
+2017-07-14 21:51:55.624 INFO  TC16AddAccount:1215 - Multi Test Data :true Execute : true
+2017-07-14 21:51:55.624 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.624 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.624 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.624 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.625 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.625 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.625 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.625 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.625 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.625 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.626 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.626 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.627 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.627 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.627 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.627 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.627 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.627 INFO  TC16AddAccount:171 - false
+2017-07-14 21:51:55.628 INFO  TC16AddAccount:171 - false

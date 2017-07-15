@@ -1,0 +1,22 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>PD Tests</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="96e971">  <td>17/07/10 22:48:55</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TC16AddAccount.AddAccount()[pri:0, instance:com.phm.hec.PD.Testcases.TC16AddAccount@4b1c1ea0]">AddAccount</td> 
+  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="8f65a4">  <td>17/07/10 22:49:38</td>   <td>43427</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="EndTestSuiteRun.EndTestSuite()[pri:0, instance:com.phm.hec.testcases.EndTestSuiteRun@59e5ddf]">EndTestSuite</td> 
+  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:55</td>   <td>-21</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&lt;&lt;initiate.afterClass()[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">&lt;&lt;afterClass</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:55</td>   <td>-20</td> <td>&nbsp;</td><td title="&lt;&lt;initiate.afterTest()[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">&lt;&lt;afterTest</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:35</td>   <td>-19717</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&gt;&gt;initiate.beforeClass()[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">&gt;&gt;beforeClass</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:35</td>   <td>-19714</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="&gt;&gt;initiate.beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">&gt;&gt;beforeMethod</td> 
+<td>&nbsp;</td>  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:35</td>   <td>-19775</td> <td title="&gt;&gt;initiate.beforeSuite()[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">&gt;&gt;beforeSuite</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:35</td>   <td>-19723</td> <td>&nbsp;</td><td title="&gt;&gt;initiate.beforeTest()[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">&gt;&gt;beforeTest</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@733957003</td>   <td></td> </tr>
+<tr bgcolor="ab7c62">  <td>17/07/10 22:48:35</td>   <td>-19712</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="initiate.loginn()[pri:0, instance:com.phm.hec.testcases.initiate@64bf3bbf]">loginn</td> 
+  <td>main@733957003</td>   <td></td> </tr>
+</table>
